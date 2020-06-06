@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: chartreuse;
+}
